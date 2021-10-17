@@ -31,8 +31,9 @@ github_username:  jekyll
 
 # Build settings
 # theme: minima
+theme: minimal-mistakes-jekyll
 # remote_theme: jeffreytse/jekyll-theme-yat
-remote_theme: thiagorossener/jekflix-template
+# remote_theme: wowthemesnet/mediumish-theme-jekyll
 plugins:
   - jekyll-feed
 
