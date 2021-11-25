@@ -1,9 +1,17 @@
 ---
+date:   2021-11-07 01:37:58 +0000
 layout: post
 title:  "Why must one acknowledge Jesus to be saved?"
-date:   2021-11-07 01:37:58 +0000
-categories: bible study
+# subtitle: 
+description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme2_ylcxxz.jpg
+optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme2_ylcxxz.jpg
+category: bible study
+tags:
+  - love
+author: unknown
 ---
+
 <style>
 	mark {
 		background-color: #4D4D4D;
