@@ -20,72 +20,108 @@ author: unknown
 
 </style>
 
+As one who studies the bible it is hard to ignore the many versus of scripture that points to the link between salvation (eternal life) and the belief in Jesus.
 
-## Why must one acknowledge Jesus to be saved? 
-As a Christian and one who studies the bible it is hard to ignore the many versus of scripture that points to the link between salvation (eternal life) and the belief in Jesus.
-
+<span class="scripture">
 > **John 3:16-18 ESV**
-> *<span style="color:red">“For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life. For God did not send his Son into the world to condemn the world, but in order that the world might be saved through him. Whoever believes in him is not condemned, but whoever does not believe is condemned already, because he has not believed in the name of the only Son of God."</span>*
+>> *<span style="color:red">“For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life. For God did not send his Son into the world to condemn the world, but in order that the world might be saved through him. Whoever believes in him is not condemned, but whoever does not believe is condemned already, because he has not believed in the name of the only Son of God."</span>*
 
 > **John 3:36 ESV**
-> *Whoever believes in the Son has eternal life; whoever does not obey the Son shall not see life, but the wrath of God remains on him.*
+>> *Whoever believes in the Son has eternal life; whoever does not obey the Son shall not see life, but the wrath of God remains on him.*
 
 > **1 John 5:11-12 ESV**
-> *And this is the testimony, that God gave us eternal life, and this life is in his Son. Whoever has the Son has life; whoever does not have the Son of God does not have life.*
+>> *And this is the testimony, that God gave us eternal life, and this life is in his Son. Whoever has the Son has life; whoever does not have the Son of God does not have life.*
 
 > **1 John 5:20 ESV**
-> *And we know that the Son of God has come and has given us understanding, so that we may know him who is true; and we are in him who is true, in his Son Jesus Christ. He is the true God and eternal life.*
+>> *And we know that the Son of God has come and has given us understanding, so that we may know him who is true; and we are in him who is true, in his Son Jesus Christ. He is the true God and eternal life.*
 
 > **John 6:50-51 ESV**
-> *This is the bread that comes down from heaven, so that one may eat of it and not die. I am the living bread that came down from heaven. If anyone eats of this bread, he will live forever. And the bread that I will give for the life of the world is my flesh.”*
+>> *This is the bread that comes down from heaven, so that one may eat of it and not die. I am the living bread that came down from heaven. If anyone eats of this bread, he will live forever. And the bread that I will give for the life of the world is my flesh.”*
+
+> **John 8:12 ESV**
+>> *Again Jesus spoke to them, saying, “I am the light of the world. Whoever follows me will not walk in darkness, but will have the light of life.”*
 
 > **John 8:24 ESV**
-> *<span style="color:red">I told you that you would die in your sins, for unless you believe that I am he you will die in your sins.”</span>*
+>> *<span style="color:red">I told you that you would die in your sins, for unless you believe that I am he you will die in your sins.”</span>*
 
 > **John 10:9 ESV**
-> *<span style="color:red">I am the door. If anyone enters by me, he will be saved and will go in and out and find pasture.</span>*
+>> *<span style="color:red">I am the door. If anyone enters by me, he will be saved and will go in and out and find pasture.</span>*
 
 > **John 11:25-26 ESV**
-> *Jesus said to her, “I am the resurrection and the life. Whoever believes in me, though he die, yet shall he live, and everyone who lives and believes in me shall never die. Do you believe this?”*
+>> *Jesus said to her, “I am the resurrection and the life. Whoever believes in me, though he die, yet shall he live, and everyone who lives and believes in me shall never die. Do you believe this?”*
 
 > **John 14:6 ESV**
-> *Jesus said to him, <span style="color:red">“I am the way, and the truth, and the life. No one comes to the Father except through me."*</span>
+>> *Jesus said to him, <span style="color:red">“I am the way, and the truth, and the life. No one comes to the Father except through me."*</span>
 
 > **John 17:3 ESV**
-> *And this is eternal life, that they know you the only true God, and Jesus Christ whom you have sent.*
+>> *And this is eternal life, that they know you the only true God, and Jesus Christ whom you have sent.*
 
 > **Acts 4:12 ESV**
-> *And there is salvation in no one else, for there is no other name under heaven given among men by which we must be saved.”*
+>> *And there is salvation in no one else, for there is no other name under heaven given among men by which we must be saved.”*
+
+> **Acts 13:38-39 ESV**
+>> *Let it be known to you therefore, brothers, that through this man forgiveness of sins is proclaimed to you, and by him everyone who believes is freed from everything from which you could not be freed by the law of Moses.*
 
 > **Acts 16:30-31 ESV**
-> *Then he brought them out and said, “Sirs, what must I do to be saved?” And they said, “Believe in the Lord Jesus, and you will be saved, you and your household.”*
+>> *Then he brought them out and said, “Sirs, what must I do to be saved?” And they said, “Believe in the Lord Jesus, and you will be saved, you and your household.”*
 
 > **Romans 6:23 ESV** 
-> *For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord.*
+>> *For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord.*
 
 > **Romans 10:8-13 ESV**
-> *8 But what does it say? “The word is near you, in your mouth and in your heart” (that is, the word of faith that we proclaim); <mark>9 because, if you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved. 10 For with the heart one believes and is justified, and with the mouth one confesses and is saved. 11 For the Scripture says, “Everyone who believes in him will not be put to shame.” 12 For there is no distinction between Jew and Greek; for the same Lord is Lord of all, bestowing his riches on all who call on him. 13 For “everyone who calls on the name of the Lord will be saved.”</mark>*
+>> *8 But what does it say? “The word is near you, in your mouth and in your heart” (that is, the word of faith that we proclaim); <mark>9 because, if you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved. 10 For with the heart one believes and is justified, and with the mouth one confesses and is saved. 11 For the Scripture says, “Everyone who believes in him will not be put to shame.” 12 For there is no distinction between Jew and Greek; for the same Lord is Lord of all, bestowing his riches on all who call on him. 13 For “everyone who calls on the name of the Lord will be saved.”</mark>*
 
 > **Romans 10:13 ESV**
-> *For “everyone who calls on the name of the Lord will be saved.”*
+>> *For “everyone who calls on the name of the Lord will be saved.”*
 
 > **Hebrews 7:25 ESV**
-> *Consequently, he is able to save to the uttermost those who draw near to God through him, since he always lives to make intercession for them.*
+>> *Consequently, he is able to save to the uttermost those who draw near to God through him, since he always lives to make intercession for them.*
+
+> **1 John 1:7 ESV**
+>> *But if we walk in the light, as he is in the light, we have fellowship with one another, and the blood of Jesus his Son cleanses us from all sin.*
 
 > **1 John 2:2 ESV**
-> *He is the propitiation for our sins, and not for ours only but also for the sins of the whole world.*
+>> *He is the propitiation for our sins, and not for ours only but also for the sins of the whole world.*
+
+> **1 John 5:10-12 ESV**
+>> *Whoever believes in the Son of God has the testimony in himself. Whoever does not believe God has made him a liar, because he has not believed in the testimony that God has borne concerning his Son. And this is the testimony, that God gave us eternal life, and this life is in his Son. Whoever has the Son has life; whoever does not have the Son of God does not have life.*
+
+> **2 John 1:9 ESV**
+>> *Everyone who goes on ahead and does not abide in the teaching of Christ, does not have God. Whoever abides in the teaching has both the Father and the Son.*
+<span><!-- close class=scripture -->
+
+<span class="disclaimer">	
+<small>**PLEASE NOTE:** The following are the thoughts of a believer in search of the truth. One who believes in the word, but challenges the worldly view of the word. One who holds no authority over the word their is but one who holds that. Feel free to challenge in love for all of our edification in the comments. Thank you.</small>
+</span>
+
+---
+
+**My Thoughts:** Above there are 22+ verses some quotes from Jesus himself. Assuming one believes the bible what are some questions one might ask? Assuming one does not what are some things worth understanding?
+
+My Questions...
+- What is the biblical definition of Salvation? 
+- What does it mean to "believe in Jesus"?
+- Why is the belief in Jesus linked to salvation?
+- Is beleiving in Jesus the only way to be saved? (Where is the law in all of this?)
+
+## What is the biblical definition of "Salvation"?
+
+![Google results for What's the biblical definition of salvation?](assets/img/def_salvation.jpeg)
 
 
-### In order to be saved? Does one need to "acknowledge" Jesus?
-
-There are a large number of Bible versus that reinforces the claim that one must accept Jesus in order to receive salvation... but why?
 
 
-### What does it mean to "acknowledge Jesus"? In what ways must he be acknowledged?
-
-### Why Jesus? Why not the Father?
 
 
+
+
+
+
+
+
+
+
+---
 
 **Here are a sampling of some of the scriptures**
 
@@ -105,7 +141,7 @@ There are a large number of Bible versus that reinforces the claim that one must
 
 
 
-> **2 Corinthians 5:21 ESV**
+> **2 Corinthians 5:21  ESV**
 > *For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God.*
 
 
@@ -129,20 +165,17 @@ There are a large number of Bible versus that reinforces the claim that one must
 > **Matthew 7:13-14 ESV**
 > *“Enter by the narrow gate. For the gate is wide and the way is easy that leads to destruction, and those who enter by it are many. For the gate is narrow and the way is hard that leads to life, and those who find it are few."*
 
-> **1 John 1:7 ESV**
-> *But if we walk in the light, as he is in the light, we have fellowship with one another, and the blood of Jesus his Son cleanses us from all sin.*
+
 
 > **Colossians 2:9 ESV**
 > *For in him the whole fullness of deity dwells bodily,*
 
-> **2 John 1:9 ESV**
-> *Everyone who goes on ahead and does not abide in the teaching of Christ, does not have God. Whoever abides in the teaching has both the Father and the Son.*
+
 
 > **John 8:51 ESV**
 > *Truly, truly, I say to you, if anyone keeps my word, he will never see death.”*
 
-> **John 3:16-17 ESV**
-> *“For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life. For God did not send his Son into the world to condemn the world, but in order that the world might be saved through him.*
+
 
 > **Matthew 11:27 ESV**
 > *<span style="color:red;">All things have been handed over to me by my Father, and no one knows the Son except the Father, and no one knows the Father except the Son and anyone to whom the Son chooses to reveal him.</span>*
@@ -150,8 +183,6 @@ There are a large number of Bible versus that reinforces the claim that one must
 > **Revelation 1:5-6 ESV**
 > *And from Jesus Christ the faithful witness, the firstborn of the dead, and the ruler of kings on earth. To him who loves us and has freed us from our sins by his blood and made us a kingdom, priests to his God and Father, to him be glory and dominion forever and ever. Amen.*
 
-> **Acts 16:31 ESV**
-> *And they said, “Believe in the Lord Jesus, and you will be saved, you and your household.”*
 
 > **John 1:29 ESV**
 > *The next day he saw Jesus coming toward him, and said, “Behold, the Lamb of God, who takes away the sin of the world!*
@@ -159,8 +190,7 @@ There are a large number of Bible versus that reinforces the claim that one must
 > **Matthew 28:18 ESV**
 > *And Jesus came and said to them, “All authority in heaven and on earth has been given to me.*
 
-> **1 John 5:10-12 ESV**
-> *Whoever believes in the Son of God has the testimony in himself. Whoever does not believe God has made him a liar, because he has not believed in the testimony that God has borne concerning his Son. And this is the testimony, that God gave us eternal life, and this life is in his Son. Whoever has the Son has life; whoever does not have the Son of God does not have life.*
+
 
 > **Hebrews 5:8-9 ESV**
 > *Although he was a son, he learned obedience through what he suffered. And being made perfect, he became the source of eternal salvation to all who obey him,*
@@ -177,15 +207,12 @@ There are a large number of Bible versus that reinforces the claim that one must
 > **Romans 5:1-21 ESV**
 > *Therefore, since we have been justified by faith, we have peace with God through our Lord Jesus Christ. Through him we have also obtained access by faith into this grace in which we stand, and we rejoice in hope of the glory of God. More than that, we rejoice in our sufferings, knowing that suffering produces endurance, and endurance produces character, and character produces hope, and hope does not put us to shame, because God's love has been poured into our hearts through the Holy Spirit who has been given to us. ...*
 
-> **Acts 13:38-39 ESV**
-> *Let it be known to you therefore, brothers, that through this man forgiveness of sins is proclaimed to you, and by him everyone who believes is freed from everything from which you could not be freed by the law of Moses.*
 
 > **1 John 2:1-2 ESV**
 > *My little children, I am writing these things to you so that you may not sin. But if anyone does sin, we have an advocate with the Father, Jesus Christ the righteous. He is the propitiation for our sins, and not for ours only but also for the sins of the whole world.*
 
 
-> **John 8:12 ESV**
-> *Again Jesus spoke to them, saying, “I am the light of the world. Whoever follows me will not walk in darkness, but will have the light of life.”*
+
 
 > **1 Timothy 2:3-6 ESV**
 > *This is good, and it is pleasing in the sight of God our Savior, who desires all people to be saved and to come to the knowledge of the truth. For there is one God, and there is one mediator between God and men, the man Christ Jesus, who gave himself as a ransom for all, which is the testimony given at the proper time.*
