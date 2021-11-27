@@ -106,7 +106,7 @@ My Questions...
 
 ## What is the biblical definition of "Salvation"?
 
-![Google results for What's the biblical definition of salvation?](assets/img/def_salvation.jpeg)
+![Google results for What's the biblical definition of salvation?(/assets/img/def_salvation.jpeg)
 
 
 
