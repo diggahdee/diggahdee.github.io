@@ -106,7 +106,10 @@ My Questions...
 
 ## What is the biblical definition of "Salvation"?
 
-![Google results for What's the biblical definition of salvation?](/assets/img/def_salvation.jpeg)
+![Google results for What's the biblical definition of salvation?]({{'/assets/img/def_salvation.jpeg' || relative_url }})
+
+
+
 
 
 
@@ -128,25 +131,14 @@ My Questions...
 > **1 Timothy 2:5 ESV**
 > *For there is one God, and there is one mediator between God and men, the man Christ Jesus,*
 
-
-
-
 > **John 3:3 ESV**
 > *Jesus answered him, “Truly, truly, I say to you, unless one is born again he cannot see the kingdom of God.”*
 
 > **1 John 2:23 ESV**
 > *No one who denies the Son has the Father. Whoever confesses the Son has the Father also.*
 
-
-
-
-
 > **2 Corinthians 5:21  ESV**
 > *For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God.*
-
-
-
-
 
 > **1 Timothy 2:5-6 ESV**
 > *For there is one God, and there is one mediator between God and men, the man Christ Jesus, who gave himself as a ransom for all, which is the testimony given at the proper time.*
@@ -157,25 +149,17 @@ My Questions...
 > **2 Corinthians 5:17 ESV**
 > *Therefore, if anyone is in Christ, he is a new creation. The old has passed away; behold, the new has come.*
 
-
-
 > **Ephesians 2:1-22 ESV**
 > *And you were dead in the trespasses and sins in which you once walked, following the course of this world, following the prince of the power of the air, the spirit that is now at work in the sons of disobedience— among whom we all once lived in the passions of our flesh, carrying out the desires of the body and the mind, and were by nature children of wrath, like the rest of mankind. But God, being rich in mercy, because of the great love with which he loved us, even when we were dead in our trespasses, made us alive together with Christ—by grace you have been saved— ...*
 
 > **Matthew 7:13-14 ESV**
 > *“Enter by the narrow gate. For the gate is wide and the way is easy that leads to destruction, and those who enter by it are many. For the gate is narrow and the way is hard that leads to life, and those who find it are few."*
 
-
-
 > **Colossians 2:9 ESV**
 > *For in him the whole fullness of deity dwells bodily,*
 
-
-
 > **John 8:51 ESV**
 > *Truly, truly, I say to you, if anyone keeps my word, he will never see death.”*
-
-
 
 > **Matthew 11:27 ESV**
 > *<span style="color:red;">All things have been handed over to me by my Father, and no one knows the Son except the Father, and no one knows the Father except the Son and anyone to whom the Son chooses to reveal him.</span>*
@@ -183,14 +167,11 @@ My Questions...
 > **Revelation 1:5-6 ESV**
 > *And from Jesus Christ the faithful witness, the firstborn of the dead, and the ruler of kings on earth. To him who loves us and has freed us from our sins by his blood and made us a kingdom, priests to his God and Father, to him be glory and dominion forever and ever. Amen.*
 
-
 > **John 1:29 ESV**
 > *The next day he saw Jesus coming toward him, and said, “Behold, the Lamb of God, who takes away the sin of the world!*
 
 > **Matthew 28:18 ESV**
 > *And Jesus came and said to them, “All authority in heaven and on earth has been given to me.*
-
-
 
 > **Hebrews 5:8-9 ESV**
 > *Although he was a son, he learned obedience through what he suffered. And being made perfect, he became the source of eternal salvation to all who obey him,*
@@ -207,12 +188,8 @@ My Questions...
 > **Romans 5:1-21 ESV**
 > *Therefore, since we have been justified by faith, we have peace with God through our Lord Jesus Christ. Through him we have also obtained access by faith into this grace in which we stand, and we rejoice in hope of the glory of God. More than that, we rejoice in our sufferings, knowing that suffering produces endurance, and endurance produces character, and character produces hope, and hope does not put us to shame, because God's love has been poured into our hearts through the Holy Spirit who has been given to us. ...*
 
-
 > **1 John 2:1-2 ESV**
 > *My little children, I am writing these things to you so that you may not sin. But if anyone does sin, we have an advocate with the Father, Jesus Christ the righteous. He is the propitiation for our sins, and not for ours only but also for the sins of the whole world.*
-
-
-
 
 > **1 Timothy 2:3-6 ESV**
 > *This is good, and it is pleasing in the sight of God our Savior, who desires all people to be saved and to come to the knowledge of the truth. For there is one God, and there is one mediator between God and men, the man Christ Jesus, who gave himself as a ransom for all, which is the testimony given at the proper time.*
