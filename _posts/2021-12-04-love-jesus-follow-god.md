@@ -1,0 +1,46 @@
+---
+date:   2021-12-04 05:3658 +0000
+layout: post
+title:  "Love Jesus, follow God?"
+subtitle: Where does the Bible say to love Jesus and follow God 
+description: Diving into what the word says about who to follow and who to love, and what does that tell me about God the father and Jesus the son.
+# image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme2_ylcxxz.jpg
+# optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme2_ylcxxz.jpg
+category: bible study
+tags:
+  - deep thoughts
+  - Jesus
+  - commandments
+author: unknown
+---
+# Love Jesus, Follow God.
+## Where does the Bible say to love Jesus and follow God?
+
+A few weeks ago over Thanksgiving holiday i was blessed by two events. The first, on the days (yes multiple) leading up to Thanksgiving i was blessed with a love debate on "What is the trinity", coming up on my live tiktok feed. (NOTE: While i enjoy Christian content creators as well as hearing other people perspective, I do not encourage anyone to seek biblical truth from social media... challenge it all in the word). Sorry for the disclaimer now back to the message. This debate went on for 3 days and seceral hours with the debate while respectful gerring heated and or talking im circles night after night.
+
+Next i was blessed this year with family time over Thanksgiving where i waw able to bring up the subject, and like on the love debate i saw a lot of the same response. A stong conviction on how each felt, but no simple statement an elevator speach that i could take away and share with others. I say all this to say this thought has been plaguing me for days... Uh well i guess weeks now. 
+
+That brings me to this morning. While i still do not have that elevator speach that I believe is out their. I was awoken. Yes, awoken. By the thought "**Where does the Bible say to love Jesus and follow God?**"
+
+### Let's Dig In
+
+A quick search on google (so not an exhaustive review AT ALL), seems to indicate the bible does not say Love Jesus, and follow God. That same search shows that the Bible says: 
+
+- Love God 
+- Follow Jesus.
+- Follow God's commandments (heed his word)
+
+Not the other way around...
+
+The Bible also states: 
+
+- Jesus is the word of God. [John 1:1-18](https://www.biblestudytools.com/john/1.html)
+    - Wrapped in flesh the physical representation of his love.
+- The "Holy" Spirit is granted to us when we accept Jesus as Lord (Master) and choose to be his disciples. Aka believe his ways, his teachings are true and desire to immitate his teachings, which results im accepting and following the word (commandments) of God.
+
+### Additional Thoughts:
+
+We are to follow the commands of God, Follow listen to the word of God, we are to follow Jesus…. Jesus is the word of God. Jesus is the fulfillment of the commandments. Jesus is both the love of God and the model for loving God. 
+
+### In Conclusion:
+The word seems clear and without contradiction that we are to Love God, and follow Jesus (who is the word/commandments of God)
