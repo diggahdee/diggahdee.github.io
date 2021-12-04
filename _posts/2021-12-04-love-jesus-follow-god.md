@@ -14,9 +14,6 @@ tags:
 author: unknown
 ---
 
-# Love Jesus, Follow God.
-## Where does the Bible say to love Jesus and follow God?
-
 A few weeks ago over Thanksgiving holiday i was blessed by two events. The first, on the days (yes multiple) leading up to Thanksgiving i was blessed with a love debate on "What is the trinity", coming up on my live tiktok feed. (NOTE: While i enjoy Christian content creators as well as hearing other people perspective, I do not encourage anyone to seek biblical truth from social media... challenge it all in the word). Sorry for the disclaimer now back to the message. This debate went on for 3 days and seceral hours with the debate while respectful gerring heated and or talking im circles night after night.
 
 Next i was blessed this year with family time over Thanksgiving where i waw able to bring up the subject, and like on the love debate i saw a lot of the same response. A stong conviction on how each felt, but no simple statement an elevator speach that i could take away and share with others. I say all this to say this thought has been plaguing me for days... Uh well i guess weeks now. 
