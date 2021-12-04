@@ -36,6 +36,8 @@ The Bible also states:
 
 - Jesus is the word of God. [John 1:1-18](https://www.biblestudytools.com/john/1.html)
     - Wrapped in flesh the physical representation of his love.
+	- Question....
+		- How much are we defined by are words or actions? Wht does the bible say about that?
 - The "Holy" Spirit is granted to us when we accept Jesus as Lord (Master) and choose to be his disciples. Aka believe his ways, his teachings are true and desire to immitate his teachings, which results im accepting and following the word (commandments) of God.
 
 ### Additional Thoughts:

@@ -13,6 +13,7 @@ tags:
   - commandments
 author: unknown
 ---
+
 # Love Jesus, Follow God.
 ## Where does the Bible say to love Jesus and follow God?
 
