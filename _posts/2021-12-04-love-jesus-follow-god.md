@@ -1,5 +1,5 @@
 ---
-date:   2021-12-04 05:3658 +0000
+date:   2021-12-04 05:36:58 +0000
 layout: post
 title:  "Love Jesus, follow God?"
 subtitle: Where does the Bible say to love Jesus and follow God 
