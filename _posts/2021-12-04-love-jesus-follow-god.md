@@ -4,7 +4,7 @@ layout: post
 title:  "Love Jesus, follow God?"
 subtitle: Where does the Bible say to love Jesus and follow God 
 description: Diving into what the word says about who to follow and who to love, and what does that tell me about God the father and Jesus the son.
-# image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme2_ylcxxz.jpg
+image: /assets/images/way-to-love.jpeg
 # optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme2_ylcxxz.jpg
 category: bible study
 tags:
