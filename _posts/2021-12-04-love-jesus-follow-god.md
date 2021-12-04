@@ -14,11 +14,11 @@ tags:
 author: unknown
 ---
 
-A few weeks ago over Thanksgiving holiday i was blessed by two events. The first, on the days (yes multiple) leading up to Thanksgiving i was blessed with a love debate on "What is the trinity", coming up on my live tiktok feed. (NOTE: While i enjoy Christian content creators as well as hearing other people perspective, I do not encourage anyone to seek biblical truth from social media... challenge it all in the word). Sorry for the disclaimer now back to the message. This debate went on for 3 days and seceral hours with the debate while respectful gerring heated and or talking im circles night after night.
+A few weeks ago over Thanksgiving holiday i was blessed by two events. The first, on the days (yes multiple) leading up to Thanksgiving i was blessed with a debate on "What is the trinity", coming up on my live tiktok feed. (NOTE: While i enjoy Christian content creators as well as hearing other people perspective, I do not encourage anyone to seek biblical truth from social media... challenge it all in the word). Sorry for the disclaimer now back to my story. This debate went on for 3 days and several hour. While respectful, the debate was getting heated and or the participants began to talk in circles night after night.
 
-Next i was blessed this year with family time over Thanksgiving where i waw able to bring up the subject, and like on the love debate i saw a lot of the same response. A stong conviction on how each felt, but no simple statement an elevator speach that i could take away and share with others. I say all this to say this thought has been plaguing me for days... Uh well i guess weeks now. 
+The following day i was blessed to enjoy Thanksgiving with my extended family, where once again the subject came up, and just as on the live debate i saw a lot of the same responses. A stong conviction on how each felt, but no simple statement or elevator speach that made their belief clear or easily sharable with another. I say all this to say this thought has been plaguing me for days... Uh, well actually a week now. 
 
-That brings me to this morning. While i still do not have that elevator speach that I believe is out their. I was awoken. Yes, awoken. By the thought "**Where does the Bible say to love Jesus and follow God?**"
+That brings me to this morning. While i still do not have that elevator speach that I believe is out their. I was awoken. Yes, awoken. By the thought, "**Where does the Bible say to love Jesus and follow God?**"
 
 ### Let's Dig In
 
@@ -41,4 +41,8 @@ The Bible also states:
 We are to follow the commands of God, Follow listen to the word of God, we are to follow Jesus…. Jesus is the word of God. Jesus is the fulfillment of the commandments. Jesus is both the love of God and the model for loving God. 
 
 ### In Conclusion:
-The word seems clear and without contradiction that we are to Love God, and follow Jesus (who is the word/commandments of God)
+The word seems clear and without contradiction that we are to Love God, and follow Jesus (who is the word/commandments of God). I believe this truth will one day lead me to the elevator speach i desire to explain the relationship between God the Father, Christ the Son and the Holy Spirit  
+
+Family, keep digging in!
+
+Thoughts are always welcomed.
