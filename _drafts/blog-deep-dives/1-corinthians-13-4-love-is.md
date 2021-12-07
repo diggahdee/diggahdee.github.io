@@ -56,7 +56,7 @@ Paul appears to be addressing a collection of issues, questions and/or concerns 
 
 **DEFINITION DEEP DIVE:**
 
-- ***"spiritual gifts"*** - I find it interesting and a little off that the word "gift" here has no definition in Strong's concordance. Only the word "spiritual". A little research/googling uncovered that the word [gift](http://lectionarygreek.blogspot.com/2010/01/1-corinthians-121-11.html) isn't in the original text but added by translators based on context. 
+- ***"spiritual gifts"*** - I find it interesting and a little off that the word "gift" here has no definition in Strong's concordance. Only the word "spiritual". A little research/googling uncovered that the word [gift](http://lectionarygreek.blogspot.com/2010/01/1-corinthians-121-11.html) isn't in the original text but added by translators, "based on context". 
 	- **"spiritual" or "[pneumatikos](https://www.biblestudytools.com/lexicons/greek/kjv/pneumatikos.html)" Strong Conordance (greek).**
 		1. relating to the human spirit, or rational soul, as part of the man which is akin to God and serves as his instrument or organ
 				- that which possesses the nature of the rational soul
@@ -67,13 +67,10 @@ Paul appears to be addressing a collection of issues, questions and/or concerns 
 		1. pertaining to the wind or breath; windy, exposed to the wind, blowing 
 	- **gifts or [charisma](https://www.biblestudytools.com/lexicons/greek/nas/charisma.html) Strong Concordance (greek)** - Note: the word gift isn't actually present in the greek translation. It was chosen to be added by whoever translated from greek to english. The absence of the word gift in that verse can have an impact on the meaning. The sentence goes from, "Now concerning spirtual gifts", to "Now concerning (the) spiritual". For the sake of arguement what is the greek word for gift found in the verses that follow 1 Corinthian 12:4.
 			1. a favour with which one receives without any merit of his own
-			1. the gift of divine gracethe 
-			1. gift of faith, knowledge, holiness, virtue
+			1. the gift of divine grace 
+			1. the gift of faith, knowledge, holiness, virtue
 			1. the economy of divine grace, by which the pardon of sin and eternal salvation is appointed to sinners in consideration of the merits of Christ laid hold of by faith
 			1. grace or gifts denoting extraordinary powers, distinguishing certain Christians and enabling them to serve the church of Christ, the reception of which is due to the power of divine grace operating on their souls by the Holy Spirit
-	
-	- YOU ARE HERE - add the definition. 
- YOU ARE HERE. are they the things that we as humans are naturally capable of, like reason, and thought but may or may not be driven to the purposes of God's kingdom... Does God only give them as part of the Holy Spirit?
 
 <span class="aside">
 	
@@ -87,12 +84,14 @@ This scripture gave me pause, specifically verses 1 and 2. It seemed so straight
 
 > **1 Corinthians 12:1-3 MOW (My Own Word... Come on that's funny)
 > Now concerning the rational soul (spirtual gift), brothers, i do not want you to lack information (be ignorant), because you know before you knew God the Father you worshipped insignificant things (mute idols), based on how you were taught. Therefore i want you to understand that no one talking by (in) the Spirit of the God the Father will ever say "Jesus is accursed [anathema](https://www.biblestudytools.com/encyclopedias/isbe/anathema.html)", and no one can boast or teach ([say]()) "Jesus is Master (Lord)" except by (in) the Holy Spirit.
-		
+
 SAID DIFFERENTLY - its reads to me as a warning (maybe even a chastisement if you look at the verses above 1 Corinthian 11:33-34) against being led astray by false teachers (as they had before) even those who claim to know God the Father. Paul literally...YOU ARE HERE ... HOW DOES HE END THE VERSE BEFORE AND DOES HE APOLOGIZE IN HIS SECOND LETTER FOR BEING HARSH. ALSO LIMK OTHER COMMENTARIES HERE. 
 
 </span>
 
+**Additional Thoughts - Continue...**
 
+I have always been taught that "spirtual gifts" come to a believer by the Holy Spirit, but if the word gift was not present and the world spritual is pneumatiko, "relating to the human spirit". This could change my whole view. Are thes human "spirits" just the God given talents that you hear people talk about. That girl is so smart, that boy is wise beyond his years... etc. Are these "spirtual gifts" things that God has given us as humans, by his grace. Is the difference when they are used for God's Kingdom, if or when we accept the Holy Spirit. Let's keep going.
 
 <span class="aside">
 **ASIDE:**
@@ -104,8 +103,6 @@ SAID DIFFERENTLY - its reads to me as a warning (maybe even a chastisement if yo
 		- family/children
 		- love / a spouse
 </span>
-
-
 
 Paul makes two points before diving into the spritual gift.
 
@@ -142,7 +139,7 @@ For me the first 3 lines stand out. Each verse has a link
 
 
 > *12 For just as the body is one and has many members, and all the members of the body, though many, are one body, so it is with Christ. 13 For in one Spirit we were all baptized into one body—Jews or Greeks, slaves or free—and all were made to drink of one Spirit.
-14 For the body does not consist of one member but of many. 15 If the foot should say, “Because I am not a hand, I do not belong to the body,” that would not makeE HE it any less a part of the body. 16 And if the ear should say, “Because I am not an eye, I do not belong to the body,” that would not make it any less a part of the body. 17 If the whole body were an eye, where would be the sense of hearing? If the whole body were an ear, where would be the sense of smell? 18 But as it is, God arranged the members in the body, each one of them, as he chose. 19 If all were a single member, where would the body be? 20 As it is, there are many parts, yet one body.
+14 For the body does not consist of one member but of many. 15 If the foot should say, “Because I am not a hand, I do not belong to the body,” that would not make it any less a part of the body. 16 And if the ear should say, “Because I am not an eye, I do not belong to the body,” that would not make it any less a part of the body. 17 If the whole body were an eye, where would be the sense of hearing? If the whole body were an ear, where would be the sense of smell? 18 But as it is, God arranged the members in the body, each one of them, as he chose. 19 If all were a single member, where would the body be? 20 As it is, there are many parts, yet one body.
 21 The eye cannot say to the hand, “I have no need of you,” nor again the head to the feet, “I have no need of you.” 22 On the contrary, the parts of the body that seem to be weaker are indispensable, 23 and on those parts of the body that we think less honorable we bestow the greater honor, and our unpresentable parts are treated with greater modesty, 24 which our more presentable parts do not require. But God has so composed the body, giving greater honor to the part that lacked it, 25 that there may be no division in the body, but that the members may have the same care for one another. 26 If one member suffers, all suffer together; if one member is honored, all rejoice together.
 27 Now you are the body of Christ and individually members of it. 28 And God has appointed in the church first apostles, second prophets, third teachers, then miracles, then gifts of healing, helping, administrating, and various kinds of tongues. 29 Are all apostles? Are all prophets? Are all teachers? Do all work miracles? 30 Do all possess gifts of healing? Do all speak with tongues? Do all interpret? 31 But earnestly desire the higher gifts.
 And I will show you a still more excellent way.
