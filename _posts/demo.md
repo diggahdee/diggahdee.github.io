@@ -1,0 +1,27 @@
+---
+date:   2021-12-04 05:36:58 +0000
+layout: post
+title:  "testing"
+subtitle: 
+author: unknown
+---
+
+<script>
+            var windowObjectReference;
+
+            function openRequestedPopup() {
+                windowObjectReference = window.open(
+                    "http://www.google.com",
+                    "Google.com",
+                    "left=100,top=100,width=320,height=320"
+                );
+            }
+        </script>
+        <ul>
+            <li><a href="http://www.google.com">Go to google - No Target</a></li>
+            <li><a href="http://www.google.com" target="_blank">Go to google - Target = blank, new window</a></li>
+            <li><a href="http://www.google.com" target="_parent">Go to google - Target = parent, target open in parent frame</a></li>
+            <li><a href="http://www.google.com" target="_top">Go to google - Target = top, target open in Window</a></li>
+            <li><span onclick="openRequestedPopup()">Window.open link to www.google.com</span>
+        </ul>
+        
