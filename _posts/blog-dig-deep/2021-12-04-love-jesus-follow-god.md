@@ -4,17 +4,17 @@ layout: post
 title:  "Love Jesus, follow God?"
 subtitle: Where does the Bible say to love Jesus and follow God 
 description: Diving into what the word says about who to follow and who to love, and what does that tell me about God the father and Jesus the son.
-# image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme2_ylcxxz.jpg
+image: /assets/images/follow-love.jpeg
 # optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme2_ylcxxz.jpg
-category: bible study
+category: digging deep
 tags:
-  - deep thoughts
+  - think about
   - Jesus
   - commandments
 author: unknown
 ---
 
-A few weeks ago over Thanksgiving holiday i was blessed by two events. The first, on the days (yes multiple) leading up to Thanksgiving i was blessed with a debate on "What is the trinity", coming up on my live tiktok feed. (NOTE: While i enjoy Christian content creators as well as hearing other people perspective, I do not encourage anyone to seek biblical truth from social media... challenge it all in the word). Sorry for the disclaimer now back to my story. This debate went on for 3 days and several hour. While respectful, the debate was getting heated and or the participants began to talk in circles night after night.
+A few weeks ago over Thanksgiving holiday i was blessed by two events. The first, on the days (yes multiple) leading up to Thanksgiving i was blessed by a live debate on "What is the trinity", coming up on my for you tiktok feed. (NOTE: While i enjoy Christian content creators as well as hearing other people perspective, I do not encourage anyone to seek biblical truth from social media... challenge it all in the word). Sorry for the disclaimer now back to my story. This debate went on for 3 days and several hour. While respectful, at times the debate got heated and or the participants began to talk in circles night after night.
 
 The following day i was blessed to enjoy Thanksgiving with my extended family, where once again the subject came up, and just as on the live debate i saw a lot of the same responses. A stong conviction on how each felt, but no simple statement or elevator speach that made their belief clear or easily sharable with another. I say all this to say this thought has been plaguing me for days... Uh, well actually a week now. 
 
@@ -34,8 +34,6 @@ The Bible also states:
 
 - Jesus is the word of God. [John 1:1-18](https://www.biblestudytools.com/john/1.html)
     - Wrapped in flesh the physical representation of his love.
-	- Question....
-		- How much are we defined by are words or actions? Wht does the bible say about that?
 - The "Holy" Spirit is granted to us when we accept Jesus as Lord (Master) and choose to be his disciples. Aka believe his ways, his teachings are true and desire to immitate his teachings, which results im accepting and following the word (commandments) of God.
 
 ### Additional Thoughts:
@@ -48,4 +46,3 @@ The word seems clear and without contradiction that we are to Love God, and foll
 Family, keep digging in!
 
 Thoughts are always welcomed.
-

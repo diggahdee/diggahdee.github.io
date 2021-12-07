@@ -26,7 +26,7 @@ author: unknown
 # The Ask...  
 ## Find examples of, "the love" defined in 1 Corinthian 13:4-12 in the old testament.
 
-1 Corinthians 13:4-12 is probably one of the most recognized verses of scripture on love, but is this a New Testament concept or is it present in the Old Testament? Let'take a look.
+1 Corinthians 13:4-12 is probably one of the most recognized verses of scripture on love, but is this a New Testament concept or is this "love" expressed in the Old Testament? Let'take a look.
 
 <span class="scripture">
 > **1 Corinthian 13:4-12 ESV**
@@ -43,7 +43,7 @@ author: unknown
 **My Thoughts:** 
 
 **SCRIPTURE IN CONTEXT (It's better in context):**
-Paul appears to be addressing a collection of issues, questions and/or concerns of the church in Corinth. Paul appears to shift to the topic that contains the verse with 1 Corinthian 12, it begin...
+Paul appears to be addressing a list of topics (challenges of the church in Corinth) one after another. He appears to switch topic starting in 1 Corinthian 12, where he shifts from “the Lord’s supper" to "spiritual gifts". Ending this topic around 1 Corinthian 14:4. Let's dig in...
 
 ### 1 Corinthians 12:1-3
 > **1 Corinthians 12:1-3 ESV**
