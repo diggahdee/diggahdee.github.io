@@ -6,7 +6,7 @@ title:  "1 Corinthian 13 love in the old testament"
 # description: The question...  Find examples of the "love" defined in 1 Corinthian 13 in the old testament
 # image: TBD.jpg
 # optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme2_ylcxxz.jpg
-category: bible study
+category: dig in
 tags:
   - love
 author: unknown
