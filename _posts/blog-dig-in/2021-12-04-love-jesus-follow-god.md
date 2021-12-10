@@ -20,6 +20,8 @@ The following day i was blessed to enjoy Thanksgiving with my extended family, w
 
 That brings me to this morning. While i still do not have that elevator speach that I believe is out their. I was awoken. Yes, awoken. By the thought, "**Where does the Bible say to love Jesus and follow God?**"
 
+{% include disclaimer.html %}
+
 ### Let's Dig In
 
 A quick search on google (so not an exhaustive review AT ALL), seems to indicate the bible does not say Love Jesus, and follow God. That same search shows that the Bible says: 
