@@ -34,9 +34,7 @@ author: unknown
 8 Love never ends. As for prophecies, they will pass away; as for tongues, they will cease; as for knowledge, it will pass away. 9 For we know in part and we prophesy in part, 10 but when the perfect comes, the partial will pass away. 11 When I was a child, I spoke like a child, I thought like a child, I reasoned like a child. When I became a man, I gave up childish ways. 12 For now we see in a mirror dimly, but then face to face. Now I know in part; then I shall know fully, even as I have been fully known.*
 </span>
 
-<span class="disclaimer">	
-<small>**PLEASE NOTE:** What follows are the thoughts of a believer in search of the truth. One who believes in the word, but challenges the worldly view of the word. One who holds no authority over the word, their is but one who holds that. Feel free to challenge in love for all of our edification in the comments. Thank you.</small>
-</span>
+{% include disclaimer.html %}
 
 ---
 
