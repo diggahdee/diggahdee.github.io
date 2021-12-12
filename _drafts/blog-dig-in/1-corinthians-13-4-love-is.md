@@ -38,24 +38,32 @@ author: unknown
 
 ---
 
-**My Thoughts:** 
+**LET'S PUT THE SCRIPTURE IN CONTEXT (It's better in context):**
 
-**SCRIPTURE IN CONTEXT (It's better in context):**
-Paul appears to be addressing a list of topics (challenges of the church in Corinth) one after another. He appears to switch topic starting in 1 Corinthian 12, where he shifts from “the Lord’s supper" to "spiritual gifts". Ending this topic around 1 Corinthian 14:4. Let's dig in...
+In 1 Corinthians, Paul is writing a letter to a church he planted in Corinth. In his letter he addresses a list of subject that was plaguing the church at that time. 1 Corinthian 12 Paul changes subject from “the Lord's supper" to "spiritual gifts". Not switching subject again until around 1 Corinthian 14:26, at least not completely, where he switches subject to what the ESV titles “Orderly worship". Let's dig in...
 
-### 1 Corinthians 12:1-3
+## 1 Corinthians 12:1-3
 > **1 Corinthians 12:1-3 ESV**
 > *12 - 1 Now concerning spiritual gifts, brothers, I do not want you to be uninformed. 2 You know that when you were pagans you were led astray to mute idols, however you were led. 3 Therefore I want you to understand that no one speaking in the Spirit of God ever says “Jesus is accursed!” and no one can say “Jesus is Lord” except in the Holy Spirit.*
 
 **POINTS FROM THE VERSES:**
 
-- No one speaking in the Spirit of God, would say "Jesus is accursed!".
-- One "in" the Holy Spirit would "says" "Jesus is Lord".
+- Paul wants to clear up a misunderstanding:
+	- the world (pagan world) has a concept of "spiritual gifts".
+		- *"1 Now concerning spiritual gifts, brothers, I do not want you to be uninformed. 2 You know that when you were pagans you were led astray to mute idols, however you were led."* - 1 Corinthian 12:1-2
+	- the Jewish church has a concept of "spiritual gifts", those who claim to be believers but are not following the "Spirit of God".
+		- *3 Therefore I want you to understand that no one speaking in the Spirit of God ever says “Jesus is accursed!”* - 1 Corinthian 12:3~
+	- those following the "Holy Spirit" has a concept of "spiritual gifts". 
+		- *"and no one can say “Jesus is Lord” except in the Holy Spirit."* - 1 Corinthians 12:~3
+
+**My Thoughts:**
+
+I feel Paul is sharing that their are three perspectives on spiritual gifts, the world, the misguided believer and the true believer. I also have some concerns in the definition of “spiritual gifts". There is some confusion for me because based on my understanding in verse 1 the word gift was added by translators and didn’t actually appear in the original text. Could this change my understanding of the text. Let’s continue by breaking down some definitions. 
 
 **DEFINITION DEEP DIVE:**
 
 - ***"spiritual gifts"*** - I find it interesting and a little off that the word "gift" here has no definition in Strong's concordance. Only the word "spiritual". A little research/googling uncovered that the word [gift](http://lectionarygreek.blogspot.com/2010/01/1-corinthians-121-11.html) isn't in the original text but added by translators, "based on context". 
-	- **"spiritual" or "[pneumatikos](https://www.biblestudytools.com/lexicons/greek/kjv/pneumatikos.html)" Strong Conordance (greek).**
+	- **"spiritual" or "[pneumatikos (Greek - Strong's Concordance)](https://www.biblestudytools.com/lexicons/greek/kjv/pneumatikos.html)".**
 		1. relating to the human spirit, or rational soul, as part of the man which is akin to God and serves as his instrument or organ
 				- that which possesses the nature of the rational soul
 		1. belonging to a spirit, or a being higher than man but inferior to God
@@ -63,57 +71,23 @@ Paul appears to be addressing a list of topics (challenges of the church in Cori
 			- of God the Holy Spirit
  			- one who is filled with and governed by the Spirit of God
 		1. pertaining to the wind or breath; windy, exposed to the wind, blowing 
-	- **gifts or [charisma](https://www.biblestudytools.com/lexicons/greek/nas/charisma.html) Strong Concordance (greek)** - Note: the word gift isn't actually present in the greek translation. It was chosen to be added by whoever translated from greek to english. The absence of the word gift in that verse can have an impact on the meaning. The sentence goes from, "Now concerning spirtual gifts", to "Now concerning (the) spiritual". For the sake of arguement what is the greek word for gift found in the verses that follow 1 Corinthian 12:4.
+	- **gifts or [charisma (Greek - Strong's Concordance)](https://www.biblestudytools.com/lexicons/greek/nas/charisma.html)** - Note: the word gift isn't actually present in the greek translation. It was chosen to be added by whoever translated from greek to english. The absence of the word gift in that verse can have an impact on the meaning. The sentence goes from, "Now concerning spirtual gifts", to "Now concerning (the) spiritual (human spirit, or rational soul, or a spirit, or divine spirit of God the Holy Spirit)". For the sake of arguemen (that the context warrants gift) let us use the greek word for gift found in the verses that follow 1 Corinthian 12:4.
 			1. a favour with which one receives without any merit of his own
 			1. the gift of divine grace 
 			1. the gift of faith, knowledge, holiness, virtue
 			1. the economy of divine grace, by which the pardon of sin and eternal salvation is appointed to sinners in consideration of the merits of Christ laid hold of by faith
-			1. grace or gifts denoting extraordinary powers, distinguishing certain Christians and enabling them to serve the church of Christ, the reception of which is due to the power of divine grace operating on their souls by the Holy Spirit
+			1. grace or gifts denoting extraordinary powers, distinguishing certain Christians and enabling them to serve the church of Christ, the reception of which is due to the power of divine grace operating on their souls by the Holy 
 
 <span class="aside">
 	
-**Additional Thoughts:**	
-This scripture gave me pause, specifically verses 1 and 2. It seemed so straight forward, but did't match up with what i had been taught was going on here. Take a moment and re-read 1 Corinthians 12:1-3 then put it in your own words. When done read mine...
-
-> **1 Corinthians 12:1-3 ESV**
-> *12 - 1 Now concerning spiritual gifts, brothers, I do not want you to be uninformed. 2 You know that when you were pagans you were led astray to mute idols, however you were led. 3 Therefore I want you to understand that no one speaking in the Spirit of God ever says “Jesus is accursed!” and no one can say “Jesus is Lord” except in the Holy Spirit.*
-
-**STOP** - a useful tool to challenge understanding is to restate what you heard (in this case read) in your own word.
-
-> **1 Corinthians 12:1-3 MOW (My Own Word... Come on that's funny)
-> Now concerning the rational soul (spirtual gift), brothers, i do not want you to lack information (be ignorant), because you know before you knew God the Father you worshipped insignificant things (mute idols), based on how you were taught. Therefore i want you to understand that no one talking by (in) the Spirit of the God the Father will ever say "Jesus is accursed [anathema](https://www.biblestudytools.com/encyclopedias/isbe/anathema.html)", and no one can boast or teach ([say]()) "Jesus is Master (Lord)" except by (in) the Holy Spirit.
-
-SAID DIFFERENTLY - its reads to me as a warning (maybe even a chastisement if you look at the verses above 1 Corinthian 11:33-34) against being led astray by false teachers (as they had before) even those who claim to know God the Father. Paul literally...YOU ARE HERE ... HOW DOES HE END THE VERSE BEFORE AND DOES HE APOLOGIZE IN HIS SECOND LETTER FOR BEING HARSH. ALSO LIMK OTHER COMMENTARIES HERE. 
-
-</span>
-
-**Additional Thoughts - Continue...**
-
-I have always been taught that "spirtual gifts" come to a believer by the Holy Spirit, but if the word gift was not present and the world spritual is pneumatiko, "relating to the human spirit". This could change my whole view. Are thes human "spirits" just the God given talents that you hear people talk about. That girl is so smart, that boy is wise beyond his years... etc. Are these "spirtual gifts" things that God has given us as humans, by his grace. Is the difference when they are used for God's Kingdom, if or when we accept the Holy Spirit. Let's keep going.
-
-<span class="aside">
 **ASIDE:**
-- is a spirit considered "Holy" when it accept Jesus?
-- Are mute or unspeaking idols the things of the world we worship, in many cases in Paul's time these idols also had a god representation
-	EXAMPLE:
-		- wealth
-		- power
-		- family/children
-		- love / a spouse
+
+I have been taught,(or understood) that "spirtual gifts", were bestowed by the Holy Spirit, and that the Holy Spirit was only in believers, so therefore believers are the only ones with access to “spiritual gifts". Assuming it is true that only "believers have access to the Holy Spirit”. How does changing the text from "spiritual gifts" to spiritual" change my understanding. Does it? 
+If the word gift was not present, but instead only spritual (pneumatiko), meaning "relating to the human spirit", or "belonging to the divine spirit". Then is whatever is being handed out only available to believers? 
+
 </span>
 
-Paul makes two points before diving into the spritual gift.
-
-1. Called out non-Jews (pagans or gentiles depending on the translation) for being led astray by mute/dumb or silent idols(gods)
-	- Is there significance in their idols being mute or silent? A contrast between the Jewish God (God the Father) and the other gods of the time?
-2. Calls out that they (pagans or gentiles) were mislead before so in order to not be led astray again recognize the spirit your dealing with. One who is speaking in the "Spirit of God" will not say "Jesus is accursed" and one who is filled with the Holy Spirit will recognize "Jesus as Lord".
-	- Many of the Jews of the time didn't believe in Jesus. So while they may have spoke of God of Abraham, Isaac and Jacob. They may have been misrepresenting his spirit. 
-	
-<aside>
-ASIDE: What does it mean to say "Jesus is Lord".
-</aside>
-
-### 1 Corinthians 12:4-11
+## 1 Corinthians 12:4-11
 > **1 Corinthians 12:4-11**
 >* 4 Now there are varieties of gifts, but the same Spirit; 5 and there are varieties of service, but the same Lord; 6 and there are varieties of activities, but it is the same God who empowers them all in everyone. 7 To each is given the manifestation of the Spirit for the common good. 8 For to one is given through the Spirit the utterance of wisdom, and to another the utterance of knowledge according to the same Spirit, 9 to another faith by the same Spirit, to another gifts of healing by the one Spirit, 10 to another the working of miracles, to another prophecy, to another the ability to distinguish between spirits, to another variouse kinds of tongues, to another the interpretation of tongues. 11 All these are empowered by one and the same Spirit, who apportions to each one individually as he wills.*
 
@@ -152,3 +126,46 @@ And I will show you a still more excellent way.
 - What is the verse actually refering to? aka the "context"?
 - What's the definition of each of the words used to describe "love"?
 - How is this love expressed in the old testament? 
+
+======= Below this line is "scratch paper", ideas potextually to include or remove. 
+
+Side notes want to make sure is in here:
+- God seeks to unify not divide. Why would he give only to those in the church. It is a tool he uses to show believers and non believers. 
+
+
+- is a spirit considered "Holy" when it accept Jesus?
+- Are mute or unspeaking idols the things of the world we worship, in many cases in Paul's time these idols also had a god representation
+	EXAMPLE:
+		- wealth
+		- power
+		- family/children
+		- love / a spouse
+
+
+<span class="aside">
+	
+**Additional Thoughts:**	
+This scripture gave me pause, specifically verses 1 and 2. It seemed so straight forward, but did't match up with what i had been taught was going on here. Take a moment and re-read 1 Corinthians 12:1-3 then put it in your own words. When done read mine...
+
+> **1 Corinthians 12:1-3 ESV**
+> *12 - 1 Now concerning spiritual gifts, brothers, I do not want you to be uninformed. 2 You know that when you were pagans you were led astray to mute idols, however you were led. 3 Therefore I want you to understand that no one speaking in the Spirit of God ever says “Jesus is accursed!” and no one can say “Jesus is Lord” except in the Holy Spirit.*
+
+**STOP** - a useful tool to challenge understanding is to restate what you heard (in this case read) in your own word.
+
+> **1 Corinthians 12:1-3 MOW (My Own Word... Come on that's funny)
+> Now concerning the rational soul (spirtual gift), brothers, i do not want you to lack information (be ignorant), because you know before you knew God the Father you worshipped insignificant things (mute idols), based on how you were taught. Therefore i want you to understand that no one talking by (in) the Spirit of the God the Father will ever say "Jesus is accursed [anathema](https://www.biblestudytools.com/encyclopedias/isbe/anathema.html)", and no one can boast or teach ([say]()) "Jesus is Master (Lord)" except by (in) the Holy Spirit.
+
+SAID DIFFERENTLY - its reads to me as a warning (maybe even a chastisement if you look at the verses above 1 Corinthian 11:33-34) against being led astray by false teachers (as they had before) even those who claim to know God the Father. Paul literally...YOU ARE HERE ... HOW DOES HE END THE VERSE BEFORE AND DOES HE APOLOGIZE IN HIS SECOND LETTER FOR BEING HARSH. ALSO LIMK OTHER COMMENTARIES HERE. 
+
+</span>
+
+Paul makes two points before diving into the spritual gift.
+
+1. Called out non-Jews (pagans or gentiles depending on the translation) for being led astray by mute/dumb or silent idols(gods)
+	- Is there significance in their idols being mute or silent? A contrast between the Jewish God (God the Father) and the other gods of the time?
+2. Calls out that they (pagans or gentiles) were mislead before so in order to not be led astray again recognize the spirit your dealing with. One who is speaking in the "Spirit of God" will not say "Jesus is accursed" and one who is filled with the Holy Spirit will recognize "Jesus as Lord".
+- Many of the Jews of the time didn't believe in Jesus. So while they may have spoke of God of Abraham, Isaac and Jacob. They may have been misrepresenting his spirit. 
+
+<aside>
+ASIDE: What does it mean to say "Jesus is Lord".
+</aside>
