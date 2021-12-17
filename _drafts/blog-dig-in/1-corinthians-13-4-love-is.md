@@ -42,7 +42,7 @@ author: unknown
 
 In 1 Corinthians, Paul is writing a letter to a church he planted in Corinth. In his letter he addresses a list of subject that was plaguing the church at that time. 1 Corinthian 12 Paul changes subject from “the Lord's supper" to "spiritual gifts". Not switching subject again until around 1 Corinthian 14:26, at least not completely, where he switches subject to what the ESV titles “Orderly worship". Let's dig in...
 
-## 1 Corinthians 12:1-3
+## 1 Corinthians 12:1-3 ESV
 > **1 Corinthians 12:1-3 ESV**
 > *12 - 1 Now concerning spiritual gifts, brothers, I do not want you to be uninformed. 2 You know that when you were pagans you were led astray to mute idols, however you were led. 3 Therefore I want you to understand that no one speaking in the Spirit of God ever says “Jesus is accursed!” and no one can say “Jesus is Lord” except in the Holy Spirit.*
 
@@ -87,38 +87,111 @@ If the word gift was not present, but instead only spritual (pneumatiko), meanin
 
 </span>
 
-## 1 Corinthians 12:4-11
-> **1 Corinthians 12:4-11**
->* 4 Now there are varieties of gifts, but the same Spirit; 5 and there are varieties of service, but the same Lord; 6 and there are varieties of activities, but it is the same God who empowers them all in everyone. 7 To each is given the manifestation of the Spirit for the common good. 8 For to one is given through the Spirit the utterance of wisdom, and to another the utterance of knowledge according to the same Spirit, 9 to another faith by the same Spirit, to another gifts of healing by the one Spirit, 10 to another the working of miracles, to another prophecy, to another the ability to distinguish between spirits, to another variouse kinds of tongues, to another the interpretation of tongues. 11 All these are empowered by one and the same Spirit, who apportions to each one individually as he wills.*
+## 1 Corinthians 12:4-7 ESV
+> **1 Corinthians 12:4-7 ESV**
+> *4 Now there are varieties of gifts, but the same Spirit; 5 and there are varieties of service, but the same Lord; 6 and there are varieties of activities, but it is the same God who empowers them all in everyone. 7 To each is given the manifestation of the Spirit for the common good.* 
 
-**Additional Thoughts:**
-For me the first 3 lines stand out. Each verse has a link
-1. "*Now there are varieties of <mark>gifts</mark>, but the same <mark>Spirit</mark>;*" - 1 Corinthians 12:4
-	- gifts & Spirit
-		- gifts? - What are the gifts?
-		- Spirit? - Is this the Spirit of God or Holy Spirit? Is their a difference or significance to picking one or the other?
-2. "*and there are varieties of <mark>service</mark>, but the same <mark>Lord</mark>;*" - 1 Corinthians 12:5
-	- service & Lord
-		- service? - What are the services?
-		- Lord? - "Jesus is Lord". - 1 Corinthians 12:3
-3. "*and there are varieties of <mark>activities</mark>, but it is the same <mark>God</mark> who empowers them all in everyone.*" - 1 Corinthians 12:6
-	- activities & God 
-		- activities? - What are the activities?
-		- God? - God the Father.
-	- "*variety of **activities**, but it is the same **God** who empowers them **all in everyone**"*
-		- God empowers all of the variety of activities? Again what are these activities?
-		- YOU ARE HERE - Is this stating God the father is over all. 
+**POINTS FROM THE VERSES:**
+
+- Their are a variety of Gifts, Services and Activities, but for each Paul distinguishes their source.
+	- Gifts - *"4 Now there are varieties of gifts, but <mark>the same Spirit</mark>;"* - 1 Corinthians 1:4
+	- Services - *"5 and there are varieties of service, but <mark>the same Lord</mark>;"* - 1 Corinthians 1:5
+	- Activities - *"6 and there are varieties of activities, but it is  <mark>the same God</mark> who empowers them all in everyone."* - 1 Corinthians 1:6
+
+**My Thoughts**
+
+Paul takes the time to call out gifts, service and activities independently and associate each with a source. Paul is trying to teach us something here, but what. I see two things that could be going on here: 
+
+1. If I was arguing that all spiritual gifts come from the Holy Spirit I might say that he is using repetition. Saying the same thing over and over again but using synonyms to ensure understanding. NOTE: The trinity doctrine is not losses on me here, but if the trinity is represented then is their significance in which part of the trinity is present in each thing?
+2. If I was arguing that they are three separate things, with three distinct sources, I might say he is communicating that their is a distinction between the three and there associated source or purpose. 
+
+I lean toward option 2, in the verses that follow, Paul takes the time to define gifts, services (another word used is ministries, and activities independently. What is the difference between gifts, services, and activities? 
+Paul also highlights three different associations. Gift and the "Spirit", services and the "Lord", and activities and "God" (God the Father).  Why is this significant? What’s the difference? Lastly what does Paul mean in verse 13:~6-7, *"God who empowers them all in everyone. To each is given the manifestation of the Spirit for the common good."* Is everyone, everyone regardless of acceptance of Jesus. Let us continue. 
+
+## 1 Corinthian 12:8-11 ESV
+
+> **1 Corinthian 12:8-11 ESV**
+> *8 For to one is given through the Spirit the utterance of wisdom, and to another the utterance of knowledge according to the same Spirit, 9 to another faith by the same Spirit, to another gifts of healing by the one Spirit, 10 to another the working of miracles, to another prophecy, to another the ability to distinguish between spirits, to another various kinds of tongues, to another the interpretation of tongues. 11 All these are empowered by one and the same Spirit, who apportions to each one individually as he wills.*
+
+**POINTS FROM THE VERSES:**
+
+- The following gifts are "given through the Spirit… the same Spirit":
+	1. "the utterance of **wisdom**" -
+	1. "the utterance of **knowledge**" -
+	1. "**faith**" -
+	1. "**gifts of healing**" -
+	1. "**prophecy**" -
+	1. "ability to **distinguish between spirits**" -
+	1. "**various kinds of tongues**" -
+	1. "**the interpretation of tongues**" -
+
+**My Thoughts**
+
+By what Spirit are are these gifts given? Are these gifts, gifted to anyone or only those with the "Holy Spirit"?
+
+## 1 Corinthian 12:12-26 ESV
+
+> **1 Corinthian 12:12-26 ESV
+> *12 For just as the body is one and has many members, and all the members of the body, though many, are one body, so it is with Christ. 13 For in one Spirit we were all baptized into one body—Jews or Greeks, slaves or free—and all were made to drink of one Spirit.*
+> *14 For the body does not consist of one member but of many. 15 If the foot should say, “Because I am not a hand, I do not belong to the body,” that would not make it any less a part of the body. 16 And if the ear should say, “Because I am not an eye, I do not belong to the body,” that would not make it any less a part of the body. 17 If the whole body were an eye, where would be the sense of hearing? If the whole body were an ear, where would be the sense of smell? 18 But as it is, God arranged the members in the body, each one of them, as he chose. 19 If all were a single member, where would the body be? 20 As it is, there are many parts, yet one body.
+> 21 The eye cannot say to the hand, “I have no need of you,” nor again the head to the feet, “I have no need of you.” 22 On the contrary, the parts of the body that seem to be weaker are indispensable, 23 and on those parts of the body that we think less honorable we bestow the greater honor, and our unpresentable parts are treated with greater modesty, 24 which our more presentable parts do not require. But God has so composed the body, giving greater honor to the part that lacked it, 25 that there may be no division in the body, but that the members may have the same care for one another. 26 If one member suffers, all suffer together; if one member is honored, all rejoice together.*
+
+**POINTS FROM THE VERSES:**
+
+- I believe Paul is using symbolism here to get the point across that We, the collective "we" are one body (one "whole"), connected and bound to each other as people, as we also are bound together as people under Christ. 
+	- In the verse Paul speaks of one connected body (whole), then he transitions to say, "so it is with Christ". Some translate that line to "so also is Christ". It’s comparing or associating a quality with one thing then assigning or associating that same quality to another. 
+	- Paul uses very inclusive language, like the word "all". 
+		- "**For in one Spirit we were <mark>all</mark> baptized into one body—Jews or Greeks, slaves or free—and <mark>all</mark> were made to drink of one Spirit.**" - 1 Corinthian 12:13
+	- Paul goes one step further to make sure he calls out all people, "Jew or Greek" (representing non Jews some translate to gentiles), "slave or free". He doubles up on making it clear that "all", really means "all".
+			- **aside** - I believe Jew or Greek was to represent cultural and or religious status, while slave or free was to represent socioeconomic status. 
+	- "One Spirit" put us here into the body the whole, but we were "all made (designed) to drink of one Spirit". 
+	- In verses 14-26 I see Paul explaining how we are all connected, and have a purpose to play, whether we agree or not. 
+
+YOU ARE HERE. 
+Chart rational souls versus Holy Spirit. 
+Make vin diagram Jew gentile free slave
+
+**My Thoughts**
 
 
-> *12 For just as the body is one and has many members, and all the members of the body, though many, are one body, so it is with Christ. 13 For in one Spirit we were all baptized into one body—Jews or Greeks, slaves or free—and all were made to drink of one Spirit.
-14 For the body does not consist of one member but of many. 15 If the foot should say, “Because I am not a hand, I do not belong to the body,” that would not make it any less a part of the body. 16 And if the ear should say, “Because I am not an eye, I do not belong to the body,” that would not make it any less a part of the body. 17 If the whole body were an eye, where would be the sense of hearing? If the whole body were an ear, where would be the sense of smell? 18 But as it is, God arranged the members in the body, each one of them, as he chose. 19 If all were a single member, where would the body be? 20 As it is, there are many parts, yet one body.
-21 The eye cannot say to the hand, “I have no need of you,” nor again the head to the feet, “I have no need of you.” 22 On the contrary, the parts of the body that seem to be weaker are indispensable, 23 and on those parts of the body that we think less honorable we bestow the greater honor, and our unpresentable parts are treated with greater modesty, 24 which our more presentable parts do not require. But God has so composed the body, giving greater honor to the part that lacked it, 25 that there may be no division in the body, but that the members may have the same care for one another. 26 If one member suffers, all suffer together; if one member is honored, all rejoice together.
+<spam class="aside">
+
+**Is the Christian God partial or impartiaL?**
+
+God the Father is not an exclusive God he is an inclusive God. Making all available to all his children. It is and has always been up to his children to accept the truth, accept his grace, accept his love that he pours out indiscriminateLu on all. Yes God does have his "chosen people" throughout the Old Testament, but are they chosen to be "set apart" as a class of people or set apart as a people who follow him and not the ways of the world. God is love and loves all. He makes the sun shine and the rain pour on the sinner and the Saints. My brothers and sisters we have to be careful about being “classist and egregious" as the Pharisees were of Jesus day. They set themselves apart this missing the Messiah they had been longing for altogether. 
+</span>
+
+**DEFINITION DEEP DIVE:**
+YOU ARE HERE FILL IN DEFINITIOMS. 
+- "body"
+- "Greek" (verse 13)
+- "free" 
+- "slave"
+
+
+
+
+## 1 Corinthian 12:14-26
+
+> **1 Corinthian 12:14-26
+> *
+
+**POINTS FROM THE VERSES:**
+
+- 
+
+##1 Corinthian 12:27
+
 27 Now you are the body of Christ and individually members of it. 28 And God has appointed in the church first apostles, second prophets, third teachers, then miracles, then gifts of healing, helping, administrating, and various kinds of tongues. 29 Are all apostles? Are all prophets? Are all teachers? Do all work miracles? 30 Do all possess gifts of healing? Do all speak with tongues? Do all interpret? 31 But earnestly desire the higher gifts.
 And I will show you a still more excellent way.
 > 13 - 1 If I speak in the tongues of men and of angels, but have not love, I am a noisy gong or a clanging cymbal. 2 And if I have prophetic powers, and understand all mysteries and all knowledge, and if I have all faith, so as to remove mountains, but have not love, I am nothing. 3 If I give away all I have, and if I deliver up my body to be burned, but have not love, I gain nothing.
 4 <mark>Love is patient and kind; love does not envy or boast; it is not arrogant 5 or rude. It does not insist on its own way; it is not irritable or resentful; 6 it does not rejoice at wrongdoing, but rejoices with the truth. 7 Love bears all things, believes all things, hopes all things, endures all things.
 8 Love never ends. As for prophecies, they will pass away; as for tongues, they will cease; as for knowledge, it will pass away. 9 For we know in part and we prophesy in part, 10 but when the perfect comes, the partial will pass away. 11 When I was a child, I spoke like a child, I thought like a child, I reasoned like a child. When I became a man, I gave up childish ways. 12 For now we see in a mirror dimly, but then face to face. Now I know in part; then I shall know fully, even as I have been fully known. </mark>
 13 So now faith, hope, and love abide, these three; but the greatest of these is love.*
+
+## Summary 
+God the Father is not a God of division. He seeks to unify the body. 
+
 
 
 **My Questions...**
