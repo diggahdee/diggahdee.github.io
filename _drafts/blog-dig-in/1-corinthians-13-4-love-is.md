@@ -129,12 +129,10 @@ Paul also highlights three different associations. Gift and the "Spirit", servic
 
 By what Spirit are are these gifts given? Are these gifts, gifted to anyone or only those with the "Holy Spirit"?
 
-## 1 Corinthian 12:12-26 ESV
+## 1 Corinthian 12:12-13 ESV
 
-> **1 Corinthian 12:12-26 ESV
+> **1 Corinthian 12:12-13 ESV
 > *12 For just as the body is one and has many members, and all the members of the body, though many, are one body, so it is with Christ. 13 For in one Spirit we were all baptized into one body—Jews or Greeks, slaves or free—and all were made to drink of one Spirit.*
-> *14 For the body does not consist of one member but of many. 15 If the foot should say, “Because I am not a hand, I do not belong to the body,” that would not make it any less a part of the body. 16 And if the ear should say, “Because I am not an eye, I do not belong to the body,” that would not make it any less a part of the body. 17 If the whole body were an eye, where would be the sense of hearing? If the whole body were an ear, where would be the sense of smell? 18 But as it is, God arranged the members in the body, each one of them, as he chose. 19 If all were a single member, where would the body be? 20 As it is, there are many parts, yet one body.
-> 21 The eye cannot say to the hand, “I have no need of you,” nor again the head to the feet, “I have no need of you.” 22 On the contrary, the parts of the body that seem to be weaker are indispensable, 23 and on those parts of the body that we think less honorable we bestow the greater honor, and our unpresentable parts are treated with greater modesty, 24 which our more presentable parts do not require. But God has so composed the body, giving greater honor to the part that lacked it, 25 that there may be no division in the body, but that the members may have the same care for one another. 26 If one member suffers, all suffer together; if one member is honored, all rejoice together.*
 
 **POINTS FROM THE VERSES:**
 
@@ -153,32 +151,34 @@ Make vin diagram Jew gentile free slave
 
 **My Thoughts**
 
+God is not exclusive, "in one Spirit we were all baptized into one body", and all are "made to drink of one Spirit". The word choice here is what I believe throws many off. As a Christian the word "baptized" has a very specific association for me. I associate it with baptism or to accept Jesus, but it simply means to be immersed, and there are so many references to the "body" and Christ that I immediately make that association, but "body" also means whole or collective. In the verse that follows he says, "so it is with Christ", in other versions of the Bible is reads, "so also is Christ". Seems like he is speaking of a second body (group or collection). Digging in more. There is a whole that we were all immersed into, a whole designed to drink of one Spirit. 
+By one Spirit We were all born into this world (given the first breath of life) and we were all designed to accept, acknowledge drink of one Spirit. There is a simple beauty to these words. God made us and we were designed to drink in the same spirit that was placed in us. All of us without exception who are on this earth was given life and designed by God for him. The missing piece that we chafe in things and people. I can talk about this for day but, in the verses that follow 14-26, Paul goes on to explain whether one accepts it or not they are a part of the one body.
 
 <spam class="aside">
 
-**Is the Christian God partial or impartiaL?**
+**Is the Christian God partial or impartial?**
 
-God the Father is not an exclusive God he is an inclusive God. Making all available to all his children. It is and has always been up to his children to accept the truth, accept his grace, accept his love that he pours out indiscriminateLu on all. Yes God does have his "chosen people" throughout the Old Testament, but are they chosen to be "set apart" as a class of people or set apart as a people who follow him and not the ways of the world. God is love and loves all. He makes the sun shine and the rain pour on the sinner and the Saints. My brothers and sisters we have to be careful about being “classist and egregious" as the Pharisees were of Jesus day. They set themselves apart this missing the Messiah they had been longing for altogether. 
+God the Father is not an exclusive God he is an inclusive God. Making all available to all his children. It is and has always been up to his children to accept the truth, accept his grace, accept his love that he pours out indiscriminately on all. Yes God does have his "chosen people" throughout the Old Testament, but are they chosen to be "set apart" as a class of people or set apart as a people who follow him and not the ways of the world. God is love and loves all. He makes the sun shine and the rain pour on the sinner and the Saints. He showers the truth and grace on those who accept him and those who do not. My brothers and sisters we have to be careful about being “classist and egregious" as the Pharisees were of Jesus day. They set themselves apart, thus missing the Messiah they had been longing for altogether. While he came as the Old Testament explained he would, one of the primary reasons they missed him, is he didn’t come and set them apart.
 </span>
 
 **DEFINITION DEEP DIVE:**
-YOU ARE HERE FILL IN DEFINITIOMS. 
+YOU ARE HERE FILL IN DEFINITIONS. 
 - "body"
 - "Greek" (verse 13)
 - "free" 
 - "slave"
 
 
-
-
 ## 1 Corinthian 12:14-26
 
 > **1 Corinthian 12:14-26
-> *
+> *14 For the body does not consist of one member but of many. 15 If the foot should say, “Because I am not a hand, I do not belong to the body,” that would not make it any less a part of the body. 16 And if the ear should say, “Because I am not an eye, I do not belong to the body,” that would not make it any less a part of the body. 17 If the whole body were an eye, where would be the sense of hearing? If the whole body were an ear, where would be the sense of smell? 18 But as it is, God arranged the members in the body, each one of them, as he chose. 19 If all were a single member, where would the body be? 20 As it is, there are many parts, yet one body.
+> 21 The eye cannot say to the hand, “I have no need of you,” nor again the head to the feet, “I have no need of you.” 22 On the contrary, the parts of the body that seem to be weaker are indispensable, 23 and on those parts of the body that we think less honorable we bestow the greater honor, and our unpresentable parts are treated with greater modesty, 24 which our more presentable parts do not require. But God has so composed the body, giving greater honor to the part that lacked it, 25 that there may be no division in the body, but that the members may have the same care for one another. 26 If one member suffers, all suffer together; if one member is honored, all rejoice together.*
+
 
 **POINTS FROM THE VERSES:**
 
-- 
+- The body consist of more than one member. Each member is part of the body as God designed. The members do not get to opt out, but we’re arranged to be a part of it 
 
 ##1 Corinthian 12:27
 
