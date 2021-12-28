@@ -142,7 +142,7 @@ By what Spirit are are these gifts given? Are these gifts, gifted to anyone or o
 		- "**For in one Spirit we were <mark>all</mark> baptized into one body—Jews or Greeks, slaves or free—and <mark>all</mark> were made to drink of one Spirit.**" - 1 Corinthian 12:13
 	- Paul goes one step further to make sure he calls out all people, "Jew or Greek" (representing non Jews some translate to gentiles), "slave or free". He doubles up on making it clear that "all", really means "all".
 			- **aside** - I believe Jew or Greek was to represent cultural and or religious status, while slave or free was to represent socioeconomic status. 
-	- "One Spirit" put us here into the body the whole, but we were "all made (designed) to drink of one Spirit". 
+	- "One Spirit" put us here into the body the whole, but we were "all made (designed) to drink of (accept the) one Spirit". 
 	- In verses 14-26 I see Paul explaining how we are all connected, and have a purpose to play, whether we agree or not. 
 
 YOU ARE HERE. 
@@ -178,7 +178,9 @@ YOU ARE HERE FILL IN DEFINITIONS.
 
 **POINTS FROM THE VERSES:**
 
-- The body consist of more than one member. Each member is part of the body as God designed. The members do not get to opt out, but we’re arranged to be a part of it 
+- God put the body (the world) together and all members (people) in it for a purpose. We are all a part of it, whether we want to accept it or not, and we’re all designed to work together for the good of all.
+	- The body consist of more than one member. Each member is part of the body as God designed. The members do not get to opt out, but we’re arranged to be a part of it. The purpose may not be what the members "wants", but it’s what the whole needs. 1 Corinthian 12:14-19
+	- All members must work together for the health and well being of the whole. We need each other, God "desires" no division, but that we care for one another suffering and celebrating together. 1 Corinthian 12:20-26
 
 ##1 Corinthian 12:27
 
@@ -188,6 +190,10 @@ And I will show you a still more excellent way.
 4 <mark>Love is patient and kind; love does not envy or boast; it is not arrogant 5 or rude. It does not insist on its own way; it is not irritable or resentful; 6 it does not rejoice at wrongdoing, but rejoices with the truth. 7 Love bears all things, believes all things, hopes all things, endures all things.
 8 Love never ends. As for prophecies, they will pass away; as for tongues, they will cease; as for knowledge, it will pass away. 9 For we know in part and we prophesy in part, 10 but when the perfect comes, the partial will pass away. 11 When I was a child, I spoke like a child, I thought like a child, I reasoned like a child. When I became a man, I gave up childish ways. 12 For now we see in a mirror dimly, but then face to face. Now I know in part; then I shall know fully, even as I have been fully known. </mark>
 13 So now faith, hope, and love abide, these three; but the greatest of these is love.*
+
+**POINTS FROM THE VERSES**
+- God intended for us to have faith in him and each other, hope in him and each other and love for him and each other. 
+
 
 ## Summary 
 God the Father is not a God of division. He seeks to unify the body. 

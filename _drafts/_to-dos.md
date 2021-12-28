@@ -14,5 +14,5 @@ Just using this file to track my to dos.
 - get domaim working
 - look at how preview Jekyll draft
 - DONE - turn the following disclaimer code into a reusable component, and replace in code 
-
+- A part of the confusion is the ambiguity of the words and there meaning. Create a section for terms. Can I link to strongs?
 
