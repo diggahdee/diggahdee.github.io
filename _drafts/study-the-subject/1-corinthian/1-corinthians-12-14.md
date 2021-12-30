@@ -26,7 +26,7 @@ author: unknown
 # The Ask...  
 ## Find examples of, "the love" defined in 1 Corinthian 13:4-12 in the old testament.
 
-1 Corinthians 13:4-12 is probably one of the most recognized verses of scripture on love, but is this a New Testament concept or is this "love" expressed in the Old Testament? Let'take a look.
+1 Corinthians 13:4-12 is probably one of the most recognized verses of scripture on love, but is this a New Testament concept or is this "love" expressed in the Old Testament? Let's take a look.
 
 <span class="scripture">
 > **1 Corinthian 13:4-12 ESV**
@@ -51,7 +51,7 @@ In 1 Corinthians, Paul is writing a letter to a church he planted in Corinth. In
 - Paul wants to clear up a misunderstanding:
 	- the world (pagan world) has a concept of "spiritual gifts".
 		- *"1 Now concerning spiritual gifts, brothers, I do not want you to be uninformed. 2 You know that when you were pagans you were led astray to mute idols, however you were led."* - 1 Corinthian 12:1-2
-	- the Jewish church has a concept of "spiritual gifts", those who claim to be believers but are not following the "Spirit of God".
+	- the Jewish church, those who claim to be believers but are not following the "Spirit of God", has a concept of "spiritual gifts".
 		- *3 Therefore I want you to understand that no one speaking in the Spirit of God ever says “Jesus is accursed!”* - 1 Corinthian 12:3~
 	- those following the "Holy Spirit" has a concept of "spiritual gifts". 
 		- *"and no one can say “Jesus is Lord” except in the Holy Spirit."* - 1 Corinthians 12:~3
@@ -120,6 +120,15 @@ Paul also highlights three different associations. Gift and the "Spirit", servic
 	1. "the utterance of **knowledge**" -
 	1. "**faith**" -
 	1. "**gifts of healing**" -
+	1. "**working of miracles**" - I see miracles as when unexpectedly a need is met. This may be an over simplification. So let me take it one step further. It is when unexpectedly a need is met by someone who has the ability/authority/power to meet the need. Let’s first take a second and look at the definition of the word "miracle" used in 1 Corinthian 12:10
+		- **"miracle" or ["dunamis" (Greek - Strong's Concordance)](https://www.biblestudytools.com/lexicons/greek/nas/dunamis.html)** 
+			- strength power, ability
+			- inherent power, power residing in a thing by virtue of its nature, or which a person or thing exerts and puts forth
+			- power for performing miracles
+			- moral power and excellence of soul
+			- the power and influence which belong to riches and wealth
+			- power and resources arising from numbers
+			- power consisting in or resting upon armies, forces, hosts
 	1. "**prophecy**" -
 	1. "ability to **distinguish between spirits**" -
 	1. "**various kinds of tongues**" -
@@ -181,6 +190,16 @@ YOU ARE HERE FILL IN DEFINITIONS.
 - God put the body (the world) together and all members (people) in it for a purpose. We are all a part of it, whether we want to accept it or not, and we’re all designed to work together for the good of all.
 	- The body consist of more than one member. Each member is part of the body as God designed. The members do not get to opt out, but we’re arranged to be a part of it. The purpose may not be what the members "wants", but it’s what the whole needs. 1 Corinthian 12:14-19
 	- All members must work together for the health and well being of the whole. We need each other, God "desires" no division, but that we care for one another suffering and celebrating together. 1 Corinthian 12:20-26
+	- Everyone has value no matter their role in the body. Paul uses an interest comparison in verses 21-22, "*21 The eye cannot say to the hand, “I have no need of you,” nor again the head to the feet, “I have no need of you.” 22 On the contrary, the parts of the body that seem to be weaker are indispensable,*". The eye is a powerful organ. It is how the body takes in information, how the body navigates throughout the world, and the mind processes information for the good of the body. What good is the ability to see and think without the ability to interact with the world, by your hands and feet. This symbolism here is beautiful. We may not all be "thinkers", holding roles that shape the direction of the body, but what good is the body without all the people all the digits that execute against that direction. Whether taking about a governmentm a business, a family or a church. We need thinkers and doers equally. 
+	- 
+	- God intention was for us to work together to remove all division from the body and uplift one and all. 1 Corinthian 12:24~-26
+
+**My Thoughts**
+
+We have a world full of teachers, doctors, engineers, scientist, meteorologist, farmers, salesman, construction workers, delivery workers, stay at home parents, physchologist, government officials etc. People who are gifted with wisdom, knowledge, drive to succeeed, the ability to heal, the ability to read the signs of nature, the ability to understand people, the ability to communicate well, or to understand well. Everyone of us are a part of this world that God has made and play a role in it’s salvation. Whether we want to accept it or not we are in this together and God would have us suffer and celebrate together. 
+Look at the stories of the Old Testament. God’s will was completed not just by the Israelites but everyone one of the people had a part to play in the Gospel. Everyone from Babylonian kings, to prostetutes, to divorcees, wise kings, slave girls, believers and non believers and God was there, God accepted their acceptance of him, as adoption into his grace. Blessing so many. We were all created by one Spirit and designed, "made to drink of" one Spirit. 
+We must work together for the health of the whole body. The parts of the body that appear to be weaker are indispensable. 
+
 
 ##1 Corinthian 12:27
 
