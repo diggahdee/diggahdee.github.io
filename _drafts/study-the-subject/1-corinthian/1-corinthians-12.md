@@ -96,7 +96,7 @@ If the word gift was not present, but instead only spritual (pneumatiko), meanin
 Paul takes the time to call out gifts, service and activities independently and associate each with a source. Paul is trying to teach us something here, but what. I see two things that could be going on here: 
 
 1. If I was arguing that all spiritual gifts come from the Holy Spirit I might say that he is using repetition. Saying the same thing over and over again but using synonyms to ensure understanding. NOTE: The trinity doctrine is not lost on me here, but if the trinity is represented then is their significance in which part of the trinity is present in each thing?
-2. If I was arguing that they are three separate things, with some distinction, I might say he is communicating that their is a distinction between the three and there associated source or purpose. 
+2. If I was arguing that they are three separate things, with some distinction, I might say he is communicating that there is a distinction between the three and there associated source or purpose. 
 
 I lean toward option 2, in the verses that follow, Paul takes the time to define gifts, services (another word used is ministries, and activities independently. What is the difference between gifts, services, and activities? 
 Paul also highlights three different associations. Gift and the "Spirit", services and the "Lord", and activities and "God" (God the Father).  Why is this significant? What’s the difference? Lastly what does Paul mean in verse 13:~6-7, *"God who empowers them all in everyone. To each is given the manifestation of the Spirit for the common good."* Is everyone, everyone regardless of acceptance of Jesus. Let us continue. 
