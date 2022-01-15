@@ -15,8 +15,11 @@ Just using this file to track my to dos.
 - look at how preview Jekyll draft
 - DONE - turn the following disclaimer code into a reusable component, and replace in code 
 - A part of the confusion is the ambiguity of the words and there meaning. Create a section for terms. Can I link to strongs?
+-Decise whether i should have "Journal" entry post as part of the blog  
 
 
 **FUTURE TOPICS**
 - We all believe in love - Love is central to the world. Both a worldly love and a biblical love. The key difference is who gets to define love and is the object of love. Is the definer and focus me. Or the definer God and focus others?
 - Orderly Love - Love of God the creator (for creation... Life), love of others, then love of self. There is danger in changing that order. Their is balance found in that order. There is life. In that order. 
+- The Love of God brings Unity.
+- What happens to those who die, who were never exposed to the word.
