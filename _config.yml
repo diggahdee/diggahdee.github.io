@@ -36,6 +36,11 @@ twitter_username: SecondPsalms
 # Build settings
 # theme: minima
 remote_theme: thiagorossener/jekflix-template
+
+# SASS
+sass:
+  style: compressed
+  
 plugins:
   - jekyll-feed
 show_hero: true
