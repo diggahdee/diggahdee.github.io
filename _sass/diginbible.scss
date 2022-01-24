@@ -1,4 +1,4 @@
-body.light:not(.main-body) {
+body:not(.main-body).light {
   path.logoLetters {
     fill: black;
     stroke: black;
