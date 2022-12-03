@@ -20,6 +20,11 @@ author: unknown
 
 </style>
 
+{
+	ADD SUMMARY OF ARTICLE HERE -
+	- In order to accept the lessons of a teacher one must accept the credentials (credibility) of the teacher. The teacher must be an authority of the content being taught, able to communicate the lesson and where applicable put the lesson into practice. Jesus was "the perfect" teacher, who had all the credentials for the lessons to be taken to heart (pun intended).
+}
+
 As one who studies the bible it is hard to ignore the many versus of scripture that points to the link between salvation (eternal life) and the belief in Jesus.
 
 <span class="scripture">

@@ -19,7 +19,18 @@ Just using this file to track my to dos.
 
 
 **FUTURE TOPICS**
+- God's (YHWH) objective is to build a kingdom of Godly Love  
 - We all believe in love - Love is central to the world. Both a worldly love and a biblical love. The key difference is who gets to define love and is the object of love. Is the definer and focus me. Or the definer God and focus others?
 - Orderly Love - Love of God the creator (for creation... Life), love of others, then love of self. There is danger in changing that order. Their is balance found in that order. There is life. In that order. 
 - The Love of God brings Unity.
 - What happens to those who die, who were never exposed to the word.
+- Father help us to repair the sins of our past falling into worldly stewardship of that which you have given us to steward. Worldly stewardship of that which you gave us to steward. 
+- manners and ceremonial laws in the bible. how learning how to use things as designed has value  versus how you prefer    
+- Honor mother and father  to honor is to acknowledge what they have done.
+
+
+css to add 
+body.light path.logoLetters {
+    fill: black;
+    stroke: black;
+}

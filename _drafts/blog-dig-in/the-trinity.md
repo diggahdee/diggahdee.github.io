@@ -1,7 +1,7 @@
 {ADD SUMMARY OF ARTICLE HERE}
 
 
-Note: Love - Godly Love versus World Love. In this article I will attempt to share my views on “Love” and it's link to God and trinity doctrine. When I use the word "Love", unless stated otherwise I will be referring to Godly Love, which is to Love as God intended, not "Worldly love", which is to accept a worldly or man made view of love.
+Note: Love - Godly Love versus Worldly Love. In this article I will attempt to share my views on “Love” and it's link to God and trinity doctrine. When I use the word "Love", unless stated otherwise I will be referring to Godly Love, which is to Love as God intended, not "Worldly love", which is to accept a worldly or man made view of love.
 
 
 The Holy Trinity or Trinity Doctrine is both a controversial and difficult topic to discuss. There are primarily two items frequently debated, while believers may simply accept (but often struggle to explain), non-believers struggle even harder to get past:
@@ -10,9 +10,16 @@ The Holy Trinity or Trinity Doctrine is both a controversial and difficult topic
    {insert image of trinity here}
 As a believer I might attempt to use terms like "spirit" or "nature" to explain it is three "entities" (the Father, the Son, and the Holy Spirit) that share the same "nature" and are all God. This is usually met with blank stares or immediate rebuttals. What if I changed it to say the “nature" is God or God's. Three entities that share the same “nature” and while the Father (YHWH/Elohim) is God. His nature which is part of his Godhead is in his Nature which is in all three… Yup, I’m still confused too. Let me explain. 
 
+<aside>
+	Trinity as explained in trinity doctrine would lead me to say the things that connect the three is God, the essence or nature of God, which is ultimately what it is saying. I believe their is an easier way and potentially more accurate way of depicting the trinity. 
+{insert images here}
+</aside>
+<aside>
+	Nature (as in a persons nature) 
+	- the things that without teaching one has a preference for or proficiency to do.
+	- the spiritual gifts (talents) one is born with. Note: Gifts may still require development or nurturing. 
 
-
-Love the, nature (spirit) of God is God, and expressed in all three forms (that Godly Love has presented itself):
+Love, the nature (spirit) of God is God, and expressed in all three forms (that Godly Love has presented itself):
 - the Father (YHWH) - expressed all three facets of Love in the Old Testament. ASIDE: Primarily credited with Creation.
 	- Examples of Creation:
 	- Examples of Salvation:
@@ -27,19 +34,27 @@ the Holy Spirit (In us) - when embraced, expresses all three facets of Love in u
 	- Examples of Restoration:
 	
 How each teaches about Godly Love:
-- the Father (YHWH) - through the law, and Old Testament
+- the Father (YHWH) - through the law, and Old Testament 
 	- Moral 
 	- Civil
 	- Ceremonial 
-- the Son (Jesus) - through sacrifice, clarifying the law, and the New Testament
+- the Son (Jesus) - through sacrifice, clarifying the law, and the New Testament 
 - The Holy Spirit (In Us) - through "the most intimate of relationship" powered by our understanding and acceptance of both the law and sacrifice. NOTE: Father I need clarity on this one. 
 
 Order matters. 
 - God the Father was the first to have the nature (spirit of Love), it is his nature. 
-	- QUESTION: is it the only possible nature for one who is.
+	- QUESTION: is it the only possible nature for one who has the characteristics of God (All knowing, all powerful, .
 - God the Father past the nature (spirit of Love) to the Son.
 - The Son passed access to nature (spirit of Love) to all. 
 
+Additional information
+Connection to God's Nature 
+- the Father - the source 
+- the Son - the perfect teacher, how to understand, recognize and model perfectly the nature (laws) of the source
+- the Holy Spirit - the connection (through acceptance and understanding) - 
+
+
+God is Love - anywhere Love is it is to be celebrated (worshiped)
 
 God the Father (Elohim) - Since the beginning desired to create a kingdom. A kingdom not governed by any king, or judge or person, but one that is ruled by his spirit (Love - spoken to man in the form of the 10 commandments in the OT or 2 in the NT)
 
