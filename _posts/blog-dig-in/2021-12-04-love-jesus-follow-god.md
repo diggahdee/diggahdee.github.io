@@ -18,7 +18,7 @@ A few weeks ago over Thanksgiving holiday i was blessed by two events. The first
 
 The following day i was blessed to enjoy Thanksgiving with my extended family, where once again the subject came up, and just as on the live debate i saw a lot of the same responses. A stong conviction on how each felt, but no simple statement or elevator speach that made their belief clear or easily sharable with another. I say all this to say this thought has been plaguing me for days... Uh, well actually a week now. 
 
-That brings me to this morning. While i still do not have that elevator speach that I believe is out their. I was awoken. Yes, awoken. By the thought, "**Where does the Bible say to love Jesus and follow God?**"
+That brings me to this morning. While i still do not have that elevator speach that I believe is out there. I was awoken. Yes, awoken. By the thought, "**Where does the Bible say to love Jesus and follow God?**"
 
 {% include disclaimer.html %}
 
