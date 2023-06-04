@@ -26,4 +26,4 @@ While understandable, I still find myself in awe at how often our understanding.
 
 How do you see God? 
 
-Maybe we need to spend more time getting to know God, imagine how our faith, our attitudes, our world might change.
+Maybe we need to spend more time getting to know God, imagine how our faith, our attitudes, our world might change...
