@@ -14,7 +14,7 @@ tags:
 author: unknown
 ---
 
-A few weeks ago over Thanksgiving holiday i was blessed by two events. The first, on the days (yes multiple) leading up to Thanksgiving i was blessed by a live debate on "What is the trinity", coming up on my for you tiktok feed. (NOTE: While i enjoy Christian content creators as well as hearing other people perspective, I do not encourage anyone to seek biblical truth from social media... challenge it all in the word). Sorry for the disclaimer now back to my story. This debate went on for 3 days and several hour. While respectful, at times the debate got heated and or the participants began to talk in circles night after night…
+A few weeks ago over Thanksgiving holiday i was blessed by two events. The first, on the days (yes multiple) leading up to Thanksgiving i was blessed by a live debate on "What is the trinity", coming up on my for you tiktok feed. (NOTE: While i enjoy Christian content creators as well as hearing other people perspective, I do not encourage anyone to seek biblical truth from social media... challenge it all in the word). Sorry for the disclaimer now back to my story. This debate went on for 3 days and several hour. While respectful, at times the debate got heated and or the participants began to talk in circles night after night.
 
 The following day i was blessed to enjoy Thanksgiving with my extended family, where once again the subject came up, and just as on the live debate i saw a lot of the same responses. A stong conviction on how each felt, but no simple statement or elevator speach that made their belief clear or easily sharable with another. I say all this to say this thought has been plaguing me for days... Uh, well actually a week now. 
 
