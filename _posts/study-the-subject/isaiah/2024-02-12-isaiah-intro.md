@@ -4,7 +4,7 @@ layout: post
 title:  Isaiah - Intro
 subtitle: "Deep Dive”
 # description: 
-image: /assets/images/deep-dive/isaiah/book_of_isaiah_intro.jpg
+image: /assets/images/deep-dive/isaiah/book-of-isaiah-intro.jpg
 # optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme2_ylcxxz.jpg
 category: dig in
 tags:
