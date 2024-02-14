@@ -4,7 +4,7 @@ layout: post
 title: "An Intro into the book of Isaiah"
 subtitle: Dig Deep - Think About It...
 # description: 
-image: /assets/images/deep-dive/isaiah/book-of-isaiah-intro.jpeg
+image: /assets/images/book-of-isaiah-intro.jpeg
 # optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme2_ylcxxz.jpg
 category: dig in
 tags:
