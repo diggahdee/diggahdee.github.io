@@ -27,4 +27,6 @@ This coin of salvation, ever-present in the believer's grasp, is a constant remi
 
 For indeed, Jesus did not merely pay our ransom; He illuminated the path of redemption. He demonstrated that the true cost of discipleship is not to evade the weight of the cross but to bear it willingly, guided by His example of sacrificial love and unwavering submission to the Father's will.
 
-Thus, we, as God's children, led to cultivate a garden of both faith and humility: to uphold the truth of His Word with hearts ablaze with love for Him and to navigate our journey with the humility that recognizes our need for His guiding hand. In this, we find the essence of our walk with God—a dance of faithfulness and humility, a melody of divine love that draws us ever closer to the heart of the Father, where true salvation lies.
+Thus, we, as God's children are led to cultivate a garden of both faith and humility: to uphold the truth of His Word with hearts ablaze with love for Him and to navigate our journey with the humility that recognizes our need for His guiding hand. In this, we find the essence of our walk with God—a dance of faithfulness and humility, a melody of divine love that draws us ever closer to the heart of the Father, where true salvation lies.
+
+## Keep Holding On! Through Faith and Humility, Salvation Awaits. 
