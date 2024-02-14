@@ -1,10 +1,10 @@
 ---
-date:   2024-02-12 21:00:58 +0000
+date:   2024-02-12 10:40:58 +0000
 layout: post
-title:  Isaiah - Intro
-subtitle: "Deep Dive”
+title: "An Intro into the book of Isaiah"
+subtitle: Dig Deep - Think About It...
 # description: 
-image: /assets/images/deep-dive/isaiah/book-of-isaiah-intro.jpg
+image: /assets/images/deep-dive/isaiah/book-of-isaiah-intro.jpeg
 # optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme2_ylcxxz.jpg
 category: dig in
 tags:
