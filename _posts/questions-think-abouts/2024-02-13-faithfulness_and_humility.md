@@ -1,20 +1,23 @@
 ---
 date:   2024-02-13 10:40:58 +0000
 layout: post
-title: "Salvation's Price: Faith & Humility"
+title: "Salvation's Price: Faithfulness & Humility"
 subtitle: Dig Deep - Think About It...
 # description: 
 image: /assets/images/coin-from-heaven.jpeg
 # optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme2_ylcxxz.jpg
 category: think about
 tags:
-  - Faith
+  - Faithfulness
   - Humility
   - Salvation
 author: Second Psalms
 ---
 
 {% include disclaimer.html %}
+---
+
+**My Thoughts**
 
 In the dance of divine grace, salvation emerges not as a towering decree but as a simple coin, twirling through the heavens before finding rest in the open palm of a believer. On one side, faithfulness—glistening with the promise to follow the divine path laid out by the one true God. This is the journey of walking in His light, embracing His teachings, His commandments, and His messengers with a heart full of love. It's a commitment to act justly, to love mercy, and to tread humbly upon the earth, serving those in need and honoring the sacred bond between Creator and creation.
 
