@@ -1,10 +1,10 @@
 ---
 date:   2024-02-13 10:40:58 +0000
 layout: post
-title: Salvation's Price: Faith & Humility
+title: "Salvation's Price: Faith & Humility"
 subtitle: Dig Deep - Think About It...
 # description: 
-image: /assets/images/dig-deep/coin-from-heaven.jpeg
+image: /assets/images/coin-from-heaven.jpeg
 # optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme2_ylcxxz.jpg
 category: think about
 tags:
